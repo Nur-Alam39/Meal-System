@@ -1,2 +1,2 @@
 # Meal-System
-It is system for meal management
+It is a meal management system for managing hall meals. 
