@@ -20,8 +20,6 @@
 -  PHP
 -  Ajax
 
-## Screenshots
-
 ##  Screenshorts
 
 **1. Overview**
