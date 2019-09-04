@@ -1,8 +1,12 @@
 # Meal System
 
+**Content:** 1. Introduction 2. Features 3. Technologies 4. Screenshots
+
+## 1. Introduction
+
  **Meal System** is a meal management web based project.
 
-## Features
+## 2. Features
 
 -  Total overview
 - Add New Member  
@@ -11,16 +15,11 @@
 - Update date and extra charge 
 - Print Report as pdf
 
-## Technologies
+## 3. Technologies
 
-- HTML
--  CSS
--  Bootstrap4
--  Javascript
--  PHP
--  Ajax
+HTML, CSS, Bootstrap4, Javascript, PHP, Ajax, MySQL
 
-##  Screenshorts
+##  4. Screenshorts
 
 **1. Overview**
 
